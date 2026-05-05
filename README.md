@@ -34,7 +34,8 @@ class TausifZaman:
     def __init__(self):
         self.role          = "AI Software Engineer @ Dayforce"
         self.location      = "Toronto, ON 🇨🇦"
-        self.education     = "M.A.C — University of Windsor"
+        self.education     = "Master in Applied Computing - University of Windsor"
+        self.education     = "Bachelors in Computer Science - University of Texas at Arlington"
         self.languages     = ["Python", "TypeScript", "Java", "C#", "SQL"]
         self.focus         = ["LLM agents", "automation", "developer tooling"]
         self.currently     = "Building multi-agent systems with LangChain + MCP"
