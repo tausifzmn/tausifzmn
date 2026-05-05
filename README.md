@@ -82,18 +82,6 @@ me.say_hi()
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tausifzmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&cache_seconds=86400" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=tausifzmn&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tausifzmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&langs_count=8&cache_seconds=86400" />
-</div>
-
-<br>
 
 ## 🎯 Profile Summary
 
@@ -113,13 +101,7 @@ me.say_hi()
 
 <br>
 
-## 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tausifzmn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</div>
-
-<br>
 
 ## 📈 Contribution Graph
 
