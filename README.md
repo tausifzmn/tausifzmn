@@ -85,12 +85,30 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tausifzmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tausifzmn&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tausifzmn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&cache_seconds=86400" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=tausifzmn&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tausifzmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tausifzmn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&langs_count=8&cache_seconds=86400" />
+</div>
+
+<br>
+
+## 🎯 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tausifzmn&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tausifzmn&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tausifzmn&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tausifzmn&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tausifzmn&theme=tokyonight&utcOffset=-5" />
 </div>
 
 <br>
@@ -107,14 +125,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tausifzmn&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff&area=true" />
-</div>
-
-<br>
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tausifzmn/tausifzmn/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <br>
